@@ -30,10 +30,10 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## How to run this project  
-run following commands in command-line: 
-1- `npm install` : to install node modules
-2- `npm run server`: to start a local server at http://localhost:3001
-3- `npm start`
+run following commands in command-line:   
+1- `npm install` : to install node modules  
+2- `npm run server`: to start a local server at http://localhost:3001  
+3- `npm start`  
 
 ## About the Project
 
