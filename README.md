@@ -39,3 +39,8 @@ run following commands in command-line:
 
 This project helps user to store its useful personal notes.  
 It uses json-server to keep data after user closes or refreshes the site.  
+ ##Screen-Shots
+ Desktop view:  
+ ![noteapp](https://github.com/AmanSingh1605/NoteApp/assets/125572956/1a062f85-dd11-4e94-b0f8-119f6d4d44bd)
+Mobile view:  
+![npteappmobile](https://github.com/AmanSingh1605/NoteApp/assets/125572956/264b619c-363c-459c-ac58-321e60e51b6a)
